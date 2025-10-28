@@ -99,4 +99,4 @@ Creating automated notification systems in web applications
 License
 
 Free for educational and personal use.
-© 2025 — Created by [your name or username]
+© 2025 — Created by NaomieBGT
