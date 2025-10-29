@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Doctolib Rendez-vous</title>
+    <link rel="icon" type="image/png" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzPzCkr1hsWyW2mhNapG5PwLLAMWgrkzg9SA&s">
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+
+  .navbar {
+    background-color: #007BC4; /* Bleu Doctolib */
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px;
+  }
+
+  .navbar-left {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .navbar-left img {
+    height: 40px;
+  }
+
+  .navbar-left a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  .navbar-right {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+  }
+
+  .navbar-right a {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+  }
+
+  .navbar-right a:hover {
+    text-decoration: underline;
+  }
+
+  .help-icon {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .help-circle {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 14px;
+  }
+</style>
+</head>
+<body style="font-family: Arial; background-color: #f8f9fa; margin: 0; padding: 0;">
+<div class="navbar">
+  <div class="navbar-left">
+    <img src="https://lh5.googleusercontent.com/proxy/EVKih_tBKDhcBxK3VuSPMfpihVTc-SKYi4U9qU2GqxwSafGn7YtSwowwwNrBOeyVM7SXmvg5FUpjrr54Nk6qVD1svsvFPUQ-XsiRS8BRtN43" alt="Logo Doctolib" height="40" alt="Logo Doctolib">
+    <a href="#">Accueil</a>
+  </div>
+  <div class="navbar-right">
+    <div class="help-icon">
+      <div class="help-circle">?</div>
+      <a href="#">Besoin d’aide ?</a>
+    </div>
+    <a href="#">Mes rendez-vous</a>
+    <a href="#">Mes documents</a>
+    <a href="#">Mes questionnaires</a>
+    <a href="#">Mon profil</a>
+  </div>
+</div>
+    <table align="center" width="1000" style="background: lightgrey; border-radius: 7px; overflow: hidden;">
+    <tr>
+        <td style="background-color: #007BC4; color: white; padding: 4px; text-align: center;">
+          <h1>Mes rendez-vous</h1>
+        </td>
+</table>
+</body>
+</html>
