@@ -47,7 +47,7 @@ Comme base pour des notifications automatiques dans une application web
 Licence
 -------
 Projet libre d’utilisation à des fins éducatives.
-© 2025 — Créé par NaomieBGT
+© 2025 - Créé par NaomieBGT
 -----------------------------------------------
 README (English)
 Appointment Confirmation — Doctolib-Inspired Template
