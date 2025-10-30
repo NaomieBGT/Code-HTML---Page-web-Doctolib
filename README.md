@@ -1,4 +1,4 @@
-Confirmation de rendez-vous — Modèle Doctolib
+Confirmation de rendez-vous - Modèle Doctolib
 ----------------------------------------------
 Ce projet contient une maquette HTML d’e-mail de confirmation de rendez-vous, inspirée du style Doctolib.
 L’objectif est de proposer un design d’e-mail clair, professionnel et compatible avec la plupart des clients de messagerie.
